@@ -1,0 +1,8 @@
+# Changelog
+All notable changes to this project will be documented in this file.
+
+## [1.0.0] - 2018-04-19
+### Added
+- Rest endpoints for CRUD operations
+- Postman collection
+- curl samples
